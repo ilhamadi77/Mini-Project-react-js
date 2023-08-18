@@ -14,8 +14,9 @@ const Input = ({ onChange, value }) => {
   )
 }
 
-Input.apply.prototype = {
-    onchange: PropTypes.func
+Input.propTypes = {
+  onChange: PropTypes.func,
+  value: PropTypes.string
 }
 
 export default Input

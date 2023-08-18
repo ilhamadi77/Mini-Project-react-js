@@ -10,8 +10,7 @@ function Container({ children }) {
   )
 }
 
-Container.prototype = {
-    children: PropTypes.node
+Container.propTypes = {
+  children: PropTypes.node
 }
-
 export default Container

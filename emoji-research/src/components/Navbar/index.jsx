@@ -5,7 +5,7 @@ import emojiIcon from '../../assets/emoji-icon.svg'
 
 function Navbar() {
   return (
-    <nav>
+    <nav className={styles.nav}>
         <img style={{marginRight: 8}} className={styles.navIcon} src={emojiIcon} alt='emoji Icon' />
         <img style={{marginTop: 8}} className={styles.navIcon} src={searchIcon} alt='search Icon' />
         <span className={styles.navTitle}>er</span>
