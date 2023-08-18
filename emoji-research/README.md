@@ -1,6 +1,6 @@
 # Emoji Research
 <div>
-    <h1>Emoji Research</h1>
+    ![dashboard](https://github.com/ilhamadi77/Mini-Project-react-js/assets/56372895/7a53e970-5855-4e68-a2c5-2734489a5806)
     <p> sebuah program yang menampilkan beberbagai icon yang dibutuhkan, Data icon diambil dari API icon  dengan fitur copy paste icon dan pencarian icon</p>
 </div>
 
